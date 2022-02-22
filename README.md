@@ -3,7 +3,7 @@ This repository intended to bring all software tools related spiking neural netw
 This repository is being used as a notebook ,yet not completed. My personal first intuiton is, there are no library that takes cares of all kinds of learning configuration. Most of them focuses on specific type of learning method. However, when the SNNs becomes commercially avaliable in products we will find libraries like developed just for SNNs and includes all kinds of methods init.
 
 LAVA-DL: github => https://github.com/lava-nc/lava-dl
-Lava-dl (primarily in python) includes both ANN to SNN conversion method and direct training method. Also it is supported by Intel Labs (So, for the implenentation of loihi chips this might be a convinient choice.)
+Lava-dl (primarily in python) includes both ANN to SNN conversion method and direct training method. Also it is supported by Intel Labs (So, for the implenentation of loihi chips this might be a convenient choice.)
 
 snnTorch: documentation => https://snntorch.readthedocs.io/en/latest/ github=> https://github.com/jeshraghian/snntorch
 snn torch (only in python) is developed by Jason Eshraghian as an additive part of PyTorch which is one of the widely used ML/DL frameworks. 
