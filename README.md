@@ -5,6 +5,9 @@ This repository is being used as a notebook ,yet not completed. My personal firs
 LAVA-DL: github => https://github.com/lava-nc/lava-dl
 Lava-dl (primarily in python) includes both ANN to SNN conversion method and direct training method. Also it is supported by Intel Labs (So, for the implenentation of loihi chips this might be a convenient choice.)
 
+Nengo: website => nengo.ai
+Nengo is a neuron simulator and it seems they have a great base for simulations and forum for community. 
+
 snnTorch: documentation => https://snntorch.readthedocs.io/en/latest/ github=> https://github.com/jeshraghian/snntorch
 snn torch (only in python) is developed by Jason Eshraghian as an additive part of PyTorch which is one of the widely used ML/DL frameworks. 
 
